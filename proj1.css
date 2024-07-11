@@ -1,0 +1,131 @@
+body{
+    margin: 0;
+    background-color: #0a2351;
+}
+
+
+.container{
+    width: 66%;
+    min-width: 600px;
+    background-color: #0a2351;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    margin-top: 5%;
+    height: 76px;
+    }
+    h3{
+        color: whitesmoke;
+        font-size: 70px;
+        display: inline-block;
+        margin-top: 0;
+        margin-bottom: 0;
+        position: relative;
+        font-family: sans-serif;
+        font-weight: 800;
+    }
+    .hh{
+       text-align: left;
+       width: 10%;
+       text-shadow: 0 0 1.2px white; 
+       color: transparent; 
+      
+    }
+    .gg{
+        text-align: right;
+        width: 89%;
+        text-shadow: 0 0 1.2px white; 
+        color: transparent; 
+    }
+
+    .containerrr{
+        height: 252px;
+        margin-top: 40px;
+        width: 73%;
+        display: flex;
+        min-width: 600px;
+        border-radius:5px;
+        margin-bottom: 3rem;
+
+    }
+
+ .s{
+    background-color: black;
+    height: 100%;
+    box-align: left;
+    width: 31.5%;
+    margin-right: 35%;
+    border-radius: 30px;
+    box-shadow: 0px 0px 10px 0 black;
+    min-width: 31.5%;
+ }
+
+ .t{
+    background-color: black;
+    height: 100%;
+    align: right;
+    width: 31.5%;
+    border-radius: 30px;
+    box-shadow: 0px 0px 10px 0 black;
+    min-width: 31.5%;
+ }
+
+ h2{
+    font-size: 9rem;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    color: #E32636;
+    text-shadow: 0px 0px 15px 0 #E32636;
+    font-family: 'Segment7Standard';
+    margin-top: 63px;
+ }
+
+ 
+
+ .cont{
+    height: 4.5rem;
+    width: 71%;
+ }
+
+ .b1{
+    width: 8%;
+    font-family: 'Segment7Standard';
+ }
+ .b2, .b3{
+    width: 8%;
+    margin-left: 1.5rem;
+    font-family: 'Segment7Standard';
+ }
+
+ .b4{
+    margin-left: 40%;
+    width: 8%;
+    font-family: 'Segment7Standard';
+ }
+ .b5, .b6{
+    width: 8%;
+    margin-left: 1.5rem;
+    font-family: 'Segment7Standard';
+ }
+
+button{
+    border-radius: 15px;
+    border-width: 2px;
+    background-color: #0a2351;
+    border-color: whitesmoke;
+    color: whitesmoke;
+    font-size: 2rem;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
